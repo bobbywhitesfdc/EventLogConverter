@@ -1,0 +1,5 @@
+# Author Bobby White
+# Company Salesforce.com
+# Date:  September 3, 2017
+
+# Free to use and to derive works from as a long as this notice is preserved
